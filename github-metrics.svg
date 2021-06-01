@@ -1349,7 +1349,7 @@
                     <rect mask="url(#languages-bar)" x="360.28432019343154" y="0" width="43.76917773911146" height="8" fill="#701516"/>
                     <rect mask="url(#languages-bar)" x="404.05349793254305" y="0" width="32.866275740354375" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="436.9197736728974" y="0" width="12.029437641161412" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.9492113140588" y="0" width="9.249079894309244" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="448.9492113140588" y="0" width="9.249079894309244" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="458.19829120836806" y="0" width="1.2973095549860327" height="8" fill="#2b7489"/>
                     <rect mask="url(#languages-bar)" x="459.4956007633541" y="0" width="0.504399236645969" height="8" fill="#89e051"/>
                 </svg>
@@ -1375,7 +1375,7 @@
                 HTML
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
