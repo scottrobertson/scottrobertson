@@ -1,1 +1,1 @@
-dev @ynab. previously @baremetrics. (he/him) #actuallyautistic 🌱
+dev @ynab (he/him) 🌱
